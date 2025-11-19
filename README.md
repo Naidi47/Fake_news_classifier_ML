@@ -98,7 +98,7 @@ Creates a leaderboard and saves the best model.
 
 | Model | Accuracy | AUC | Speed |
 |-------|----------|------|--------|
-| Logistic Regression | ~0.92 | ~0.95 | Fast |
+| Logistic Regression | ~0.95 | ~0.95 | Fast |
 | Random Forest | ~0.91 | ~0.94 | Medium |
 | Linear SVM | ~0.90 | ~0.93 | Medium |
 | Gradient Boosting | ~0.89 | ~0.92 | Slow |

@@ -94,16 +94,15 @@ Creates a leaderboard and saves the best model.
 
 ---
 
-## 🏆 Results Summary
+## 🏆 Results Summary (Ordered by Performance)
 
-| Model | Accuracy | AUC | Speed |
-|-------|----------|------|--------|
-| Logistic Regression | ~0.95 | ~0.95 | Fast |
-| Random Forest | ~0.91 | ~0.94 | Medium |
-| Linear SVM | ~0.90 | ~0.93 | Medium |
-| Gradient Boosting | ~0.89 | ~0.92 | Slow |
-| Naive Bayes | ~0.87 | ~0.90 | Very Fast |
-| Linear Regression | ~0.85 | ~0.88 | Fast |
+| Rank | Model                   | Accuracy | AUC (Trend) | Speed        |
+|------|--------------------------|----------|-------------|--------------|
+| 1    | Gradient Boosting        | 1.00     | Highest     | Slow         |
+| 2    | Random Forest            | 1.00     | Very High   | Medium       |
+| 3    | Logistic Regression      | ~0.99    | High        | Fast         |
+| 4    | Multinomial Naive Bayes  | ~0.95    | Moderate    | Very Fast    |
+| 5    | Linear SVC (Calibrated)  | ~0.94    | Moderate    | Slow         |
 
 ### **Key Insights**
 - Fake news uses more sensational language  

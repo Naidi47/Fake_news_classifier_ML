@@ -1,0 +1,63 @@
+# -----------------------------
+# Python cache / temp files
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+.notebook_checkpoints/
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+env/
+venv/
+.venv/
+ENV/
+
+# -----------------------------
+# OS specific files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Data files (optional: keep raw offline)
+# -----------------------------
+data/*.csv
+data/cleaned/*.csv
+*.zip
+
+# Uncomment this if you want to upload small csv samples to GitHub:
+# !data/sample.csv 
+
+# -----------------------------
+# Model files
+# -----------------------------
+models/*.joblib
+models/*.pkl
+
+# -----------------------------
+# Results (optional)
+# -----------------------------
+results/*.png
+results/*.jpg
+results/*.txt
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# Colab / Google Drive temp
+# -----------------------------
+*.json
+*checkpoint.ipynb

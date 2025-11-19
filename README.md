@@ -9,7 +9,7 @@ This repository includes a fully documented **Jupyter notebook**, clean project 
 
 Open the notebook directly in Google Colab:
 
-https://colab.research.google.com/github/Naidi47/Fake_news_classifier_ML/blob/main/notebooks/fake_news_classifier.ipynb
+https://colab.research.google.com/github/Naidi47/Fake_news_classifier_ML/blob/main/Notebook/fake_news_classifier.ipynb
 
 ---
 
@@ -30,7 +30,7 @@ fake-news-classifier/
 
 ---
 
-## ▶️ Usage
+## Usage
 
 1. Clone or download the notebook (`fake_news_classifier.ipynb`).
 2. Place **Fake.csv** and **True.csv** inside the `data/` folder.
@@ -50,7 +50,7 @@ The notebook will:
 
 ---
 
-## 🔍 Methodology (Simple Explanation)
+## Methodology (Simple Explanation)
 
 ### **1. Exploratory Data Analysis (EDA)**
 - Visualize class distribution  

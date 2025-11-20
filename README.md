@@ -114,7 +114,7 @@ Creates a leaderboard and saves the best model.
 ## 👤 Author
 
 **M Brahmanaidu**  
-Aspirant Data Science / AI & ML Developer  
+Data Science / AI & ML Developer  
 GitHub: https://github.com/Naidi47  
 LinkedIn: https://www.linkedin.com/in/brahmanaidu-muchukuntla-17a1a9242/  
 Email: muchukuntlabrahmanaidu@gmail.com  

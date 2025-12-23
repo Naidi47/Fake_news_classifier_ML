@@ -121,7 +121,7 @@ Email: muchukuntlabrahmanaidu@gmail.com
 
 ---
 
-## 📜 License
+##  License
 
 This project is open for learning, research, and improvement.
 
